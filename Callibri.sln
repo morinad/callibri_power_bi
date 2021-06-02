@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4DF76451-A46A-4C0B-BE03-459FAAFA07E6}") = "Callibri", "Callibri\Callibri.mproj", "{62E56179-276C-4E3E-ABFB-31A3EB1A8396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E56179-276C-4E3E-ABFB-31A3EB1A8396}.Debug|x86.ActiveCfg = Debug|x86
+		{62E56179-276C-4E3E-ABFB-31A3EB1A8396}.Debug|x86.Build.0 = Debug|x86
+		{62E56179-276C-4E3E-ABFB-31A3EB1A8396}.Release|x86.ActiveCfg = Release|x86
+		{62E56179-276C-4E3E-ABFB-31A3EB1A8396}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BB7018E-4795-4E94-8E93-1E24574C5151}
+	EndGlobalSection
+EndGlobal
